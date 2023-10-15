@@ -48,5 +48,6 @@ development perspective.
 1. [UI Design Cert](CERTIFICATE%20OF%20COMPLETION%20-%20Learn%20UI%20Design%20(1).pdf)
 2. [Frontend Software development Certificate](CERTIFICATE%20OF%20COMPLETION%20-%20The%20Frontend%20Developer%20Career%20Path.pdf)
 
+3. [SCRUM fundamental Cert "Scrum cert](ScrumFundamentalsCertified-BlaiseEjikeme-1000902.pdf)
 
 Thanks for Reading and hoping to hear from you soon!

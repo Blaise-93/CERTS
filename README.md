@@ -41,7 +41,7 @@ My mission as a software developer coming from health industry (pharmacy) is to 
 
 ## The certificate below :
 
-Out of my zeal to learn more, especially React and see how to work with people and community, I chose [Scrimba](https://scrimba.com) platform recommended by my great friend, [Engr Joseph](https://www.linkedin.com/in/chukwuebuka-enyelu-948a31b9) and it is indeed helpful and had shaped my taught process on how to write resusable, refactored codes in Javascript and even in python.
+Out of my zeal to learn more, especially React and see how to work with people and community, I chose [Scrimba](https://scrimba.com) platform recommended by my mentor, [Engr Joseph](https://www.linkedin.com/in/chukwuebuka-enyelu-948a31b9) and it is indeed helpful and had shaped my taught process on how to write resusable, refactored codes in Javascript and even in python.
 development perspective.
 
 > ### The certs links are:
